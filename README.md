@@ -13,3 +13,4 @@ Use EMR to run a Spark transformation job
 Load data to Amazon Redshift from Glue
 Intro into Amazon Redshift Best design practices.
 Query data using Amazon Athena & visualize it using Amazon QuickSight
+![image](https://github.com/reshmikareddy/Analytics-using-AWS/assets/86427444/32f879fe-a963-4af3-bbaf-352f7d87cd90)
